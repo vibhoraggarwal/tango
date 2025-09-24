@@ -23,7 +23,7 @@ jobs:
 
       - name: Generate diagram
         run: |
-          python gen_plot.py
+          python tango_music_chart.py
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3

@@ -1,15 +1,15 @@
 import matplotlib.pyplot as plt
 import mpld3
 
+# Define instrument positions based on rhythm/melody and tone range
+# (0 = Rhythm, 1 = Melody), (0 = Low Tone, 1 = High Tone)
 instruments = {
-    "Bandoneón": (0.3, 0.5),
-    "Violin": (0.8, 0.8),
-    "Piano": (0.5, 0.4),
-    "Double Bass": (0.2, 0.1),
-    "Voice": (0.7, 0.6),
-    "Guitar": (0.4, 0.5),
-    "Flute": (0.9, 0.9),
-    "Clarinet": (0.7, 0.7),
+    "Klavier (Piano)": (0.5, 0.4),
+    "Contrabass (Double Bass)": (0.2, 0.1),
+    "Geigen (Violin)": (0.8, 0.8),
+    "Cello": (0.4, 0.3),
+    "Bandonion (Bandoneón)": (0.3, 0.5),
+    "Akkordeon (Accordion)": (0.5, 0.6)
 }
 
 x = [pos[0] for pos in instruments.values()]
