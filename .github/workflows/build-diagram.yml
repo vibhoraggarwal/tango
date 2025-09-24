@@ -23,7 +23,7 @@ jobs:
 
       - name: Generate diagram
         run: |
-          python your_script.py
+          python gen_plot.py
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
