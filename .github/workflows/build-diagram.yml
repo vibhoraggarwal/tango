@@ -25,6 +25,10 @@ jobs:
         run: |
           python tango_music_chart.py
 
+      - name: Make diagram the default page
+        run: |
+          cp diagram.html index.html
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
