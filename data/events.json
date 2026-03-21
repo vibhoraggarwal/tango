@@ -1,0 +1,2835 @@
+{
+  "last_updated": "2026-03-21T20:32:54.420476",
+  "source_count": 6,
+  "event_count": 202,
+  "events": [
+    {
+      "id": "tangostuttgart.de-161",
+      "title": "Tanzen im tangoloft Dienstags, samstags und 1x im Monat sonntags finden gut besu",
+      "start": "2026-03-21T17:30:00",
+      "end": "2026-03-21T19:30:00",
+      "url": "https://www.tangostuttgart.de/milongas.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "milonga",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-170",
+      "title": "Die nächsten Milongas im tangoloft März 2026 La Doppia Notte / Late Night Milong",
+      "start": "2026-03-21T17:30:00",
+      "end": "2026-03-21T19:30:00",
+      "url": "https://www.tangostuttgart.de/milongas.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "milonga",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-179",
+      "title": "März 2026 La Doppia Notte / Late Night Milonga Sa, 21.03.2026\t\t\t bis So, 22.03.2",
+      "start": "2026-03-21T17:30:00",
+      "end": "2026-03-21T19:30:00",
+      "url": "https://www.tangostuttgart.de/milongas.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "milonga",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-2",
+      "title": "Tango lernen im tangoloft Unsere Kurse bieten regelmäßigen, aufeinander aufbauen",
+      "start": "2026-03-22T16:00:00",
+      "end": "2026-03-22T18:00:00",
+      "url": "https://www.tangostuttgart.de/kurse.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "class",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-22",
+      "title": "Die nächsten Kurstermine: März 2026 Oberstufe am Sonntag (15.02. - 29.03.2026) S",
+      "start": "2026-03-22T16:00:00",
+      "end": "2026-03-22T18:00:00",
+      "url": "https://www.tangostuttgart.de/kurse.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "class",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-42",
+      "title": "März 2026 Oberstufe am Sonntag (15.02. - 29.03.2026) So, 22.03.2026\t\t\t\t\t\t16:00 -",
+      "start": "2026-03-22T16:00:00",
+      "end": "2026-03-22T18:00:00",
+      "url": "https://www.tangostuttgart.de/kurse.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "class",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-62",
+      "title": "Oberstufe am Sonntag (15.02. - 29.03.2026) So, 22.03.2026\t\t\t\t\t\t16:00 - 17:15 Der",
+      "start": "2026-03-22T16:00:00",
+      "end": "2026-03-22T18:00:00",
+      "url": "https://www.tangostuttgart.de/kurse.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "class",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-64",
+      "title": "Oberstufe am Sonntag (15.02. - 29.03.2026) So, 22.03.2026\t\t\t\t\t\t16:00 - 17:15",
+      "start": "2026-03-22T16:00:00",
+      "end": "2026-03-22T18:00:00",
+      "url": "https://www.tangostuttgart.de/kurse.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "event",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-65",
+      "title": "So, 22.03.2026\t\t\t\t\t\t16:00 - 17:15",
+      "start": "2026-03-22T16:00:00",
+      "end": "2026-03-22T18:00:00",
+      "url": "https://www.tangostuttgart.de/kurse.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "event",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-162",
+      "title": "Tanzen im tangoloft Dienstags, samstags und 1x im Monat sonntags finden gut besu",
+      "start": "2026-03-22T17:30:00",
+      "end": "2026-03-22T19:30:00",
+      "url": "https://www.tangostuttgart.de/milongas.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "milonga",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-171",
+      "title": "Die nächsten Milongas im tangoloft März 2026 La Doppia Notte / Late Night Milong",
+      "start": "2026-03-22T17:30:00",
+      "end": "2026-03-22T19:30:00",
+      "url": "https://www.tangostuttgart.de/milongas.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "milonga",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-180",
+      "title": "März 2026 La Doppia Notte / Late Night Milonga Sa, 21.03.2026\t\t\t bis So, 22.03.2",
+      "start": "2026-03-22T17:30:00",
+      "end": "2026-03-22T19:30:00",
+      "url": "https://www.tangostuttgart.de/milongas.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "milonga",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-4",
+      "title": "Tango lernen im tangoloft Unsere Kurse bieten regelmäßigen, aufeinander aufbauen",
+      "start": "2026-03-23T16:00:00",
+      "end": "2026-03-23T18:00:00",
+      "url": "https://www.tangostuttgart.de/kurse.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "class",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-24",
+      "title": "Die nächsten Kurstermine: März 2026 Oberstufe am Sonntag (15.02. - 29.03.2026) S",
+      "start": "2026-03-23T16:00:00",
+      "end": "2026-03-23T18:00:00",
+      "url": "https://www.tangostuttgart.de/kurse.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "class",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-44",
+      "title": "März 2026 Oberstufe am Sonntag (15.02. - 29.03.2026) So, 22.03.2026\t\t\t\t\t\t16:00 -",
+      "start": "2026-03-23T16:00:00",
+      "end": "2026-03-23T18:00:00",
+      "url": "https://www.tangostuttgart.de/kurse.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "class",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-67",
+      "title": "Mittelstufe 1 am Montag (09.02. - 13.04.2026) Mo, 23.03.2026\t\t\t\t\t\t19:00 - 20:15",
+      "start": "2026-03-23T19:00:00",
+      "end": "2026-03-23T21:00:00",
+      "url": "https://www.tangostuttgart.de/kurse.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "class",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-68",
+      "title": "Mo, 23.03.2026\t\t\t\t\t\t19:00 - 20:15",
+      "start": "2026-03-23T19:00:00",
+      "end": "2026-03-23T21:00:00",
+      "url": "https://www.tangostuttgart.de/kurse.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "event",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-70",
+      "title": "Mittel-/Oberstufe am Montag (09.02. - 13.04.2026) Mo, 23.03.2026\t\t\t\t\t\t20:30 - 21",
+      "start": "2026-03-23T20:30:00",
+      "end": "2026-03-23T22:30:00",
+      "url": "https://www.tangostuttgart.de/kurse.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "class",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-71",
+      "title": "Mo, 23.03.2026\t\t\t\t\t\t20:30 - 21:45",
+      "start": "2026-03-23T20:30:00",
+      "end": "2026-03-23T22:30:00",
+      "url": "https://www.tangostuttgart.de/kurse.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "event",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-6",
+      "title": "Tango lernen im tangoloft Unsere Kurse bieten regelmäßigen, aufeinander aufbauen",
+      "start": "2026-03-24T16:00:00",
+      "end": "2026-03-24T18:00:00",
+      "url": "https://www.tangostuttgart.de/kurse.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "class",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-26",
+      "title": "Die nächsten Kurstermine: März 2026 Oberstufe am Sonntag (15.02. - 29.03.2026) S",
+      "start": "2026-03-24T16:00:00",
+      "end": "2026-03-24T18:00:00",
+      "url": "https://www.tangostuttgart.de/kurse.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "class",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-46",
+      "title": "März 2026 Oberstufe am Sonntag (15.02. - 29.03.2026) So, 22.03.2026\t\t\t\t\t\t16:00 -",
+      "start": "2026-03-24T16:00:00",
+      "end": "2026-03-24T18:00:00",
+      "url": "https://www.tangostuttgart.de/kurse.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "class",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-163",
+      "title": "Tanzen im tangoloft Dienstags, samstags und 1x im Monat sonntags finden gut besu",
+      "start": "2026-03-24T17:30:00",
+      "end": "2026-03-24T19:30:00",
+      "url": "https://www.tangostuttgart.de/milongas.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "milonga",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-172",
+      "title": "Die nächsten Milongas im tangoloft März 2026 La Doppia Notte / Late Night Milong",
+      "start": "2026-03-24T17:30:00",
+      "end": "2026-03-24T19:30:00",
+      "url": "https://www.tangostuttgart.de/milongas.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "milonga",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-181",
+      "title": "März 2026 La Doppia Notte / Late Night Milonga Sa, 21.03.2026\t\t\t bis So, 22.03.2",
+      "start": "2026-03-24T17:30:00",
+      "end": "2026-03-24T19:30:00",
+      "url": "https://www.tangostuttgart.de/milongas.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "milonga",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-73",
+      "title": "Oberstufe am Dienstag (24.03. - 19.05.2026) Di, 24.03.2026\t\t\t\t\t\t19:00 - 20:15 Un",
+      "start": "2026-03-24T19:00:00",
+      "end": "2026-03-24T21:00:00",
+      "url": "https://www.tangostuttgart.de/kurse.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "class",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-75",
+      "title": "Oberstufe am Dienstag (24.03. - 19.05.2026) Di, 24.03.2026\t\t\t\t\t\t19:00 - 20:15",
+      "start": "2026-03-24T19:00:00",
+      "end": "2026-03-24T21:00:00",
+      "url": "https://www.tangostuttgart.de/kurse.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "event",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-76",
+      "title": "Di, 24.03.2026\t\t\t\t\t\t19:00 - 20:15",
+      "start": "2026-03-24T19:00:00",
+      "end": "2026-03-24T21:00:00",
+      "url": "https://www.tangostuttgart.de/kurse.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "event",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-8",
+      "title": "Tango lernen im tangoloft Unsere Kurse bieten regelmäßigen, aufeinander aufbauen",
+      "start": "2026-03-25T16:00:00",
+      "end": "2026-03-25T18:00:00",
+      "url": "https://www.tangostuttgart.de/kurse.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "class",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-28",
+      "title": "Die nächsten Kurstermine: März 2026 Oberstufe am Sonntag (15.02. - 29.03.2026) S",
+      "start": "2026-03-25T16:00:00",
+      "end": "2026-03-25T18:00:00",
+      "url": "https://www.tangostuttgart.de/kurse.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "class",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-48",
+      "title": "März 2026 Oberstufe am Sonntag (15.02. - 29.03.2026) So, 22.03.2026\t\t\t\t\t\t16:00 -",
+      "start": "2026-03-25T16:00:00",
+      "end": "2026-03-25T18:00:00",
+      "url": "https://www.tangostuttgart.de/kurse.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "class",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-164",
+      "title": "Tanzen im tangoloft Dienstags, samstags und 1x im Monat sonntags finden gut besu",
+      "start": "2026-03-25T17:30:00",
+      "end": "2026-03-25T19:30:00",
+      "url": "https://www.tangostuttgart.de/milongas.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "milonga",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-173",
+      "title": "Die nächsten Milongas im tangoloft März 2026 La Doppia Notte / Late Night Milong",
+      "start": "2026-03-25T17:30:00",
+      "end": "2026-03-25T19:30:00",
+      "url": "https://www.tangostuttgart.de/milongas.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "milonga",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-182",
+      "title": "März 2026 La Doppia Notte / Late Night Milonga Sa, 21.03.2026\t\t\t bis So, 22.03.2",
+      "start": "2026-03-25T17:30:00",
+      "end": "2026-03-25T19:30:00",
+      "url": "https://www.tangostuttgart.de/milongas.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "milonga",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-78",
+      "title": "Mittelstufe am Mittwoch (25.03. - 20.05.2026) Mi, 25.03.2026\t\t\t\t\t\t19:00 - 20:15",
+      "start": "2026-03-25T19:00:00",
+      "end": "2026-03-25T21:00:00",
+      "url": "https://www.tangostuttgart.de/kurse.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "class",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-79",
+      "title": "Mi, 25.03.2026\t\t\t\t\t\t19:00 - 20:15",
+      "start": "2026-03-25T19:00:00",
+      "end": "2026-03-25T21:00:00",
+      "url": "https://www.tangostuttgart.de/kurse.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "event",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-81",
+      "title": "Vals & Milonga am Mittwoch (25.03. - 20.05.2026) Mi, 25.03.2026\t\t\t\t\t\t20:30 - 21:",
+      "start": "2026-03-25T20:30:00",
+      "end": "2026-03-25T22:30:00",
+      "url": "https://www.tangostuttgart.de/kurse.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "class",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-82",
+      "title": "Mi, 25.03.2026\t\t\t\t\t\t20:30 - 21:45",
+      "start": "2026-03-25T20:30:00",
+      "end": "2026-03-25T22:30:00",
+      "url": "https://www.tangostuttgart.de/kurse.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "event",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-10",
+      "title": "Tango lernen im tangoloft Unsere Kurse bieten regelmäßigen, aufeinander aufbauen",
+      "start": "2026-03-26T16:00:00",
+      "end": "2026-03-26T18:00:00",
+      "url": "https://www.tangostuttgart.de/kurse.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "class",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-30",
+      "title": "Die nächsten Kurstermine: März 2026 Oberstufe am Sonntag (15.02. - 29.03.2026) S",
+      "start": "2026-03-26T16:00:00",
+      "end": "2026-03-26T18:00:00",
+      "url": "https://www.tangostuttgart.de/kurse.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "class",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-50",
+      "title": "März 2026 Oberstufe am Sonntag (15.02. - 29.03.2026) So, 22.03.2026\t\t\t\t\t\t16:00 -",
+      "start": "2026-03-26T16:00:00",
+      "end": "2026-03-26T18:00:00",
+      "url": "https://www.tangostuttgart.de/kurse.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "class",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-84",
+      "title": "Oberstufe am Donnerstag (19.03. - 14.05.2026) Do, 26.03.2026\t\t\t\t\t\t19:00 - 20:15",
+      "start": "2026-03-26T19:00:00",
+      "end": "2026-03-26T21:00:00",
+      "url": "https://www.tangostuttgart.de/kurse.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "class",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-85",
+      "title": "Do, 26.03.2026\t\t\t\t\t\t19:00 - 20:15",
+      "start": "2026-03-26T19:00:00",
+      "end": "2026-03-26T21:00:00",
+      "url": "https://www.tangostuttgart.de/kurse.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "event",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-87",
+      "title": "Grundstufe 1 am Donnerstag (19.03. - 14.05.2026) Do, 26.03.2026\t\t\t\t\t\t20:30 - 21:",
+      "start": "2026-03-26T20:30:00",
+      "end": "2026-03-26T22:30:00",
+      "url": "https://www.tangostuttgart.de/kurse.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "class",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-88",
+      "title": "Do, 26.03.2026\t\t\t\t\t\t20:30 - 21:45",
+      "start": "2026-03-26T20:30:00",
+      "end": "2026-03-26T22:30:00",
+      "url": "https://www.tangostuttgart.de/kurse.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "event",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-90",
+      "title": "Grundstufe 3 am Donnerstag (19.03. - 14.05.2026) Do, 26.03.2026\t\t\t\t\t\t20:30 - 21:",
+      "start": "2026-03-26T20:30:00",
+      "end": "2026-03-26T22:30:00",
+      "url": "https://www.tangostuttgart.de/kurse.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "class",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-12",
+      "title": "Tango lernen im tangoloft Unsere Kurse bieten regelmäßigen, aufeinander aufbauen",
+      "start": "2026-03-27T16:00:00",
+      "end": "2026-03-27T18:00:00",
+      "url": "https://www.tangostuttgart.de/kurse.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "class",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-32",
+      "title": "Die nächsten Kurstermine: März 2026 Oberstufe am Sonntag (15.02. - 29.03.2026) S",
+      "start": "2026-03-27T16:00:00",
+      "end": "2026-03-27T18:00:00",
+      "url": "https://www.tangostuttgart.de/kurse.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "class",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-52",
+      "title": "März 2026 Oberstufe am Sonntag (15.02. - 29.03.2026) So, 22.03.2026\t\t\t\t\t\t16:00 -",
+      "start": "2026-03-27T16:00:00",
+      "end": "2026-03-27T18:00:00",
+      "url": "https://www.tangostuttgart.de/kurse.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "class",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-92",
+      "title": "Oberstufe am Freitag (27.03. - 22.05.2026) Fr, 27.03.2026\t\t\t\t\t\t20:15 - 21:30 Die",
+      "start": "2026-03-27T20:15:00",
+      "end": "2026-03-27T22:15:00",
+      "url": "https://www.tangostuttgart.de/kurse.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "class",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-94",
+      "title": "Oberstufe am Freitag (27.03. - 22.05.2026) Fr, 27.03.2026\t\t\t\t\t\t20:15 - 21:30",
+      "start": "2026-03-27T20:15:00",
+      "end": "2026-03-27T22:15:00",
+      "url": "https://www.tangostuttgart.de/kurse.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "event",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-95",
+      "title": "Fr, 27.03.2026\t\t\t\t\t\t20:15 - 21:30",
+      "start": "2026-03-27T20:15:00",
+      "end": "2026-03-27T22:15:00",
+      "url": "https://www.tangostuttgart.de/kurse.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "event",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-113",
+      "title": "Workshops im tangoloft Besondere Workshops an den Wochenenden bieten fortgeschri",
+      "start": "2026-03-28T13:00:00",
+      "end": "2026-03-28T15:00:00",
+      "url": "https://www.tangostuttgart.de/workshops.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "class",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-121",
+      "title": "Termine Workshops März 2026 Milonga & Vals-Workshop (Samstag, 28. März 2026) Sa,",
+      "start": "2026-03-28T13:00:00",
+      "end": "2026-03-28T15:00:00",
+      "url": "https://www.tangostuttgart.de/workshops.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "workshop",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-129",
+      "title": "März 2026 Milonga & Vals-Workshop (Samstag, 28. März 2026) Sa, 28.03.2026\t\t\t\t\t\t1",
+      "start": "2026-03-28T13:00:00",
+      "end": "2026-03-28T15:00:00",
+      "url": "https://www.tangostuttgart.de/workshops.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "workshop",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-137",
+      "title": "Milonga & Vals-Workshop (Samstag, 28. März 2026) Sa, 28.03.2026\t\t\t\t\t\t13:00 - 14:",
+      "start": "2026-03-28T13:00:00",
+      "end": "2026-03-28T15:00:00",
+      "url": "https://www.tangostuttgart.de/workshops.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "workshop",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-138",
+      "title": "Sa, 28.03.2026\t\t\t\t\t\t13:00 - 14:30",
+      "start": "2026-03-28T13:00:00",
+      "end": "2026-03-28T15:00:00",
+      "url": "https://www.tangostuttgart.de/workshops.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "event",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-14",
+      "title": "Tango lernen im tangoloft Unsere Kurse bieten regelmäßigen, aufeinander aufbauen",
+      "start": "2026-03-28T16:00:00",
+      "end": "2026-03-28T18:00:00",
+      "url": "https://www.tangostuttgart.de/kurse.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "class",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-34",
+      "title": "Die nächsten Kurstermine: März 2026 Oberstufe am Sonntag (15.02. - 29.03.2026) S",
+      "start": "2026-03-28T16:00:00",
+      "end": "2026-03-28T18:00:00",
+      "url": "https://www.tangostuttgart.de/kurse.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "class",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-54",
+      "title": "März 2026 Oberstufe am Sonntag (15.02. - 29.03.2026) So, 22.03.2026\t\t\t\t\t\t16:00 -",
+      "start": "2026-03-28T16:00:00",
+      "end": "2026-03-28T18:00:00",
+      "url": "https://www.tangostuttgart.de/kurse.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "class",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-97",
+      "title": "Tango für Anfänger am Samstag (28.03. - 23.05.2026) Sa, 28.03.2026\t\t\t\t\t\t16:00 -",
+      "start": "2026-03-28T16:00:00",
+      "end": "2026-03-28T18:00:00",
+      "url": "https://www.tangostuttgart.de/kurse.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "class",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-98",
+      "title": "Sa, 28.03.2026\t\t\t\t\t\t16:00 - 17:15",
+      "start": "2026-03-28T16:00:00",
+      "end": "2026-03-28T18:00:00",
+      "url": "https://www.tangostuttgart.de/kurse.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "event",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-155",
+      "title": "Unsere praktika77 - Raum zu Üben Die praktika77 hilft TänzerInnen Gelerntes zu w",
+      "start": "2026-03-28T17:30:00",
+      "end": "2026-03-28T19:30:00",
+      "url": "https://www.tangostuttgart.de/praktika.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "event",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-156",
+      "title": "Nächste Praktika-Termine März 2026 praktika77 Sa, 28.03.2026\t\t\t\t\t\t17:30 - 19:30",
+      "start": "2026-03-28T17:30:00",
+      "end": "2026-03-28T19:30:00",
+      "url": "https://www.tangostuttgart.de/praktika.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "event",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-157",
+      "title": "März 2026 praktika77 Sa, 28.03.2026\t\t\t\t\t\t17:30 - 19:30 Mit Tanzpartner*in und oh",
+      "start": "2026-03-28T17:30:00",
+      "end": "2026-03-28T19:30:00",
+      "url": "https://www.tangostuttgart.de/praktika.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "event",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-158",
+      "title": "praktika77 Sa, 28.03.2026\t\t\t\t\t\t17:30 - 19:30 Mit Tanzpartner*in und ohne Anmeldu",
+      "start": "2026-03-28T17:30:00",
+      "end": "2026-03-28T19:30:00",
+      "url": "https://www.tangostuttgart.de/praktika.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "event",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-159",
+      "title": "praktika77 Sa, 28.03.2026\t\t\t\t\t\t17:30 - 19:30",
+      "start": "2026-03-28T17:30:00",
+      "end": "2026-03-28T19:30:00",
+      "url": "https://www.tangostuttgart.de/praktika.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "event",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-160",
+      "title": "Sa, 28.03.2026\t\t\t\t\t\t17:30 - 19:30",
+      "start": "2026-03-28T17:30:00",
+      "end": "2026-03-28T19:30:00",
+      "url": "https://www.tangostuttgart.de/praktika.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "event",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-1",
+      "title": "Tango lernen im tangoloft Unsere Kurse bieten regelmäßigen, aufeinander aufbauen",
+      "start": "2026-03-29T16:00:00",
+      "end": "2026-03-29T18:00:00",
+      "url": "https://www.tangostuttgart.de/kurse.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "class",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-21",
+      "title": "Die nächsten Kurstermine: März 2026 Oberstufe am Sonntag (15.02. - 29.03.2026) S",
+      "start": "2026-03-29T16:00:00",
+      "end": "2026-03-29T18:00:00",
+      "url": "https://www.tangostuttgart.de/kurse.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "class",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-41",
+      "title": "März 2026 Oberstufe am Sonntag (15.02. - 29.03.2026) So, 22.03.2026\t\t\t\t\t\t16:00 -",
+      "start": "2026-03-29T16:00:00",
+      "end": "2026-03-29T18:00:00",
+      "url": "https://www.tangostuttgart.de/kurse.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "class",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-61",
+      "title": "Oberstufe am Sonntag (15.02. - 29.03.2026) So, 22.03.2026\t\t\t\t\t\t16:00 - 17:15 Der",
+      "start": "2026-03-29T16:00:00",
+      "end": "2026-03-29T18:00:00",
+      "url": "https://www.tangostuttgart.de/kurse.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "class",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-63",
+      "title": "Oberstufe am Sonntag (15.02. - 29.03.2026) So, 22.03.2026\t\t\t\t\t\t16:00 - 17:15",
+      "start": "2026-03-29T16:00:00",
+      "end": "2026-03-29T18:00:00",
+      "url": "https://www.tangostuttgart.de/kurse.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "event",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-165",
+      "title": "Tanzen im tangoloft Dienstags, samstags und 1x im Monat sonntags finden gut besu",
+      "start": "2026-03-29T17:30:00",
+      "end": "2026-03-29T19:30:00",
+      "url": "https://www.tangostuttgart.de/milongas.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "milonga",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-174",
+      "title": "Die nächsten Milongas im tangoloft März 2026 La Doppia Notte / Late Night Milong",
+      "start": "2026-03-29T17:30:00",
+      "end": "2026-03-29T19:30:00",
+      "url": "https://www.tangostuttgart.de/milongas.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "milonga",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-183",
+      "title": "März 2026 La Doppia Notte / Late Night Milonga Sa, 21.03.2026\t\t\t bis So, 22.03.2",
+      "start": "2026-03-29T17:30:00",
+      "end": "2026-03-29T19:30:00",
+      "url": "https://www.tangostuttgart.de/milongas.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "milonga",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-188",
+      "title": "tanzort am Sonntag (29. März 2026) So, 29.03.2026\t\t\t\t\t\t17:30 - 21:30 Unsere Sonn",
+      "start": "2026-03-29T17:30:00",
+      "end": "2026-03-29T19:30:00",
+      "url": "https://www.tangostuttgart.de/milongas.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "milonga",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-189",
+      "title": "tanzort am Sonntag (29. März 2026) So, 29.03.2026\t\t\t\t\t\t17:30 - 21:30",
+      "start": "2026-03-29T17:30:00",
+      "end": "2026-03-29T19:30:00",
+      "url": "https://www.tangostuttgart.de/milongas.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "event",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-190",
+      "title": "So, 29.03.2026\t\t\t\t\t\t17:30 - 21:30",
+      "start": "2026-03-29T17:30:00",
+      "end": "2026-03-29T19:30:00",
+      "url": "https://www.tangostuttgart.de/milongas.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "event",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-16",
+      "title": "Tango lernen im tangoloft Unsere Kurse bieten regelmäßigen, aufeinander aufbauen",
+      "start": "2026-04-12T16:00:00",
+      "end": "2026-04-12T18:00:00",
+      "url": "https://www.tangostuttgart.de/kurse.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "class",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-36",
+      "title": "Die nächsten Kurstermine: März 2026 Oberstufe am Sonntag (15.02. - 29.03.2026) S",
+      "start": "2026-04-12T16:00:00",
+      "end": "2026-04-12T18:00:00",
+      "url": "https://www.tangostuttgart.de/kurse.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "class",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-56",
+      "title": "März 2026 Oberstufe am Sonntag (15.02. - 29.03.2026) So, 22.03.2026\t\t\t\t\t\t16:00 -",
+      "start": "2026-04-12T16:00:00",
+      "end": "2026-04-12T18:00:00",
+      "url": "https://www.tangostuttgart.de/kurse.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "class",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-100",
+      "title": "Oberstufe am Sonntag (12.04. - 14.06.2026) So, 12.04.2026\t\t\t\t\t\t16:00 - 17:15 Der",
+      "start": "2026-04-12T16:00:00",
+      "end": "2026-04-12T18:00:00",
+      "url": "https://www.tangostuttgart.de/kurse.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "class",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-102",
+      "title": "Oberstufe am Sonntag (12.04. - 14.06.2026) So, 12.04.2026\t\t\t\t\t\t16:00 - 17:15",
+      "start": "2026-04-12T16:00:00",
+      "end": "2026-04-12T18:00:00",
+      "url": "https://www.tangostuttgart.de/kurse.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "event",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-103",
+      "title": "So, 12.04.2026\t\t\t\t\t\t16:00 - 17:15",
+      "start": "2026-04-12T16:00:00",
+      "end": "2026-04-12T18:00:00",
+      "url": "https://www.tangostuttgart.de/kurse.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "event",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-3",
+      "title": "Tango lernen im tangoloft Unsere Kurse bieten regelmäßigen, aufeinander aufbauen",
+      "start": "2026-04-13T16:00:00",
+      "end": "2026-04-13T18:00:00",
+      "url": "https://www.tangostuttgart.de/kurse.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "class",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-23",
+      "title": "Die nächsten Kurstermine: März 2026 Oberstufe am Sonntag (15.02. - 29.03.2026) S",
+      "start": "2026-04-13T16:00:00",
+      "end": "2026-04-13T18:00:00",
+      "url": "https://www.tangostuttgart.de/kurse.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "class",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-43",
+      "title": "März 2026 Oberstufe am Sonntag (15.02. - 29.03.2026) So, 22.03.2026\t\t\t\t\t\t16:00 -",
+      "start": "2026-04-13T16:00:00",
+      "end": "2026-04-13T18:00:00",
+      "url": "https://www.tangostuttgart.de/kurse.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "class",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-66",
+      "title": "Mittelstufe 1 am Montag (09.02. - 13.04.2026) Mo, 23.03.2026\t\t\t\t\t\t19:00 - 20:15",
+      "start": "2026-04-13T19:00:00",
+      "end": "2026-04-13T21:00:00",
+      "url": "https://www.tangostuttgart.de/kurse.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "class",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-69",
+      "title": "Mittel-/Oberstufe am Montag (09.02. - 13.04.2026) Mo, 23.03.2026\t\t\t\t\t\t20:30 - 21",
+      "start": "2026-04-13T20:30:00",
+      "end": "2026-04-13T22:30:00",
+      "url": "https://www.tangostuttgart.de/kurse.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "class",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-18",
+      "title": "Tango lernen im tangoloft Unsere Kurse bieten regelmäßigen, aufeinander aufbauen",
+      "start": "2026-04-17T16:00:00",
+      "end": "2026-04-17T18:00:00",
+      "url": "https://www.tangostuttgart.de/kurse.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "class",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-38",
+      "title": "Die nächsten Kurstermine: März 2026 Oberstufe am Sonntag (15.02. - 29.03.2026) S",
+      "start": "2026-04-17T16:00:00",
+      "end": "2026-04-17T18:00:00",
+      "url": "https://www.tangostuttgart.de/kurse.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "class",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-58",
+      "title": "März 2026 Oberstufe am Sonntag (15.02. - 29.03.2026) So, 22.03.2026\t\t\t\t\t\t16:00 -",
+      "start": "2026-04-17T16:00:00",
+      "end": "2026-04-17T18:00:00",
+      "url": "https://www.tangostuttgart.de/kurse.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "class",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-105",
+      "title": "Tango für Anfänger am Freitag (17.04. - 19.06.2026) Fr, 17.04.2026\t\t\t\t\t\t19:00 -",
+      "start": "2026-04-17T19:00:00",
+      "end": "2026-04-17T21:00:00",
+      "url": "https://www.tangostuttgart.de/kurse.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "class",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-106",
+      "title": "Fr, 17.04.2026\t\t\t\t\t\t19:00 - 20:15",
+      "start": "2026-04-17T19:00:00",
+      "end": "2026-04-17T21:00:00",
+      "url": "https://www.tangostuttgart.de/kurse.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "event",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-114",
+      "title": "Workshops im tangoloft Besondere Workshops an den Wochenenden bieten fortgeschri",
+      "start": "2026-04-18T13:00:00",
+      "end": "2026-04-18T15:00:00",
+      "url": "https://www.tangostuttgart.de/workshops.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "class",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-122",
+      "title": "Termine Workshops März 2026 Milonga & Vals-Workshop (Samstag, 28. März 2026) Sa,",
+      "start": "2026-04-18T13:00:00",
+      "end": "2026-04-18T15:00:00",
+      "url": "https://www.tangostuttgart.de/workshops.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "workshop",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-130",
+      "title": "März 2026 Milonga & Vals-Workshop (Samstag, 28. März 2026) Sa, 28.03.2026\t\t\t\t\t\t1",
+      "start": "2026-04-18T13:00:00",
+      "end": "2026-04-18T15:00:00",
+      "url": "https://www.tangostuttgart.de/workshops.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "workshop",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-139",
+      "title": "Workshop \"Komplexe Figuren (Choreografie) für Fortgeschrittene\" (Samstag, 18. Ap",
+      "start": "2026-04-18T13:00:00",
+      "end": "2026-04-18T15:00:00",
+      "url": "https://www.tangostuttgart.de/workshops.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "workshop",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-140",
+      "title": "Sa, 18.04.2026\t\t\t\t\t\t13:00 - 14:30",
+      "start": "2026-04-18T13:00:00",
+      "end": "2026-04-18T15:00:00",
+      "url": "https://www.tangostuttgart.de/workshops.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "event",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-20",
+      "title": "Tango lernen im tangoloft Unsere Kurse bieten regelmäßigen, aufeinander aufbauen",
+      "start": "2026-04-20T16:00:00",
+      "end": "2026-04-20T18:00:00",
+      "url": "https://www.tangostuttgart.de/kurse.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "class",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-40",
+      "title": "Die nächsten Kurstermine: März 2026 Oberstufe am Sonntag (15.02. - 29.03.2026) S",
+      "start": "2026-04-20T16:00:00",
+      "end": "2026-04-20T18:00:00",
+      "url": "https://www.tangostuttgart.de/kurse.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "class",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-60",
+      "title": "März 2026 Oberstufe am Sonntag (15.02. - 29.03.2026) So, 22.03.2026\t\t\t\t\t\t16:00 -",
+      "start": "2026-04-20T16:00:00",
+      "end": "2026-04-20T18:00:00",
+      "url": "https://www.tangostuttgart.de/kurse.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "class",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-108",
+      "title": "Mittelstufe 2 am Montag (20.04. - 22.06.2026) Mo, 20.04.2026\t\t\t\t\t\t19:00 - 20:15",
+      "start": "2026-04-20T19:00:00",
+      "end": "2026-04-20T21:00:00",
+      "url": "https://www.tangostuttgart.de/kurse.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "class",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-109",
+      "title": "Mo, 20.04.2026\t\t\t\t\t\t19:00 - 20:15",
+      "start": "2026-04-20T19:00:00",
+      "end": "2026-04-20T21:00:00",
+      "url": "https://www.tangostuttgart.de/kurse.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "event",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-111",
+      "title": "Mittel-/Oberstufe am Montag (20.04. - 22.06.2026) Mo, 20.04.2026\t\t\t\t\t\t20:30 - 21",
+      "start": "2026-04-20T20:30:00",
+      "end": "2026-04-20T22:30:00",
+      "url": "https://www.tangostuttgart.de/kurse.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "class",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-112",
+      "title": "Mo, 20.04.2026\t\t\t\t\t\t20:30 - 21:45",
+      "start": "2026-04-20T20:30:00",
+      "end": "2026-04-20T22:30:00",
+      "url": "https://www.tangostuttgart.de/kurse.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "event",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-166",
+      "title": "Tanzen im tangoloft Dienstags, samstags und 1x im Monat sonntags finden gut besu",
+      "start": "2026-04-26T17:30:00",
+      "end": "2026-04-26T19:30:00",
+      "url": "https://www.tangostuttgart.de/milongas.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "milonga",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-175",
+      "title": "Die nächsten Milongas im tangoloft März 2026 La Doppia Notte / Late Night Milong",
+      "start": "2026-04-26T17:30:00",
+      "end": "2026-04-26T19:30:00",
+      "url": "https://www.tangostuttgart.de/milongas.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "milonga",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-184",
+      "title": "März 2026 La Doppia Notte / Late Night Milonga Sa, 21.03.2026\t\t\t bis So, 22.03.2",
+      "start": "2026-04-26T17:30:00",
+      "end": "2026-04-26T19:30:00",
+      "url": "https://www.tangostuttgart.de/milongas.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "milonga",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-191",
+      "title": "tanzort am Sonntag (26. April 2026) So, 26.04.2026\t\t\t\t\t\t17:30 - 21:30 Unsere Son",
+      "start": "2026-04-26T17:30:00",
+      "end": "2026-04-26T19:30:00",
+      "url": "https://www.tangostuttgart.de/milongas.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "milonga",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-192",
+      "title": "tanzort am Sonntag (26. April 2026) So, 26.04.2026\t\t\t\t\t\t17:30 - 21:30",
+      "start": "2026-04-26T17:30:00",
+      "end": "2026-04-26T19:30:00",
+      "url": "https://www.tangostuttgart.de/milongas.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "event",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-193",
+      "title": "So, 26.04.2026\t\t\t\t\t\t17:30 - 21:30",
+      "start": "2026-04-26T17:30:00",
+      "end": "2026-04-26T19:30:00",
+      "url": "https://www.tangostuttgart.de/milongas.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "event",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-115",
+      "title": "Workshops im tangoloft Besondere Workshops an den Wochenenden bieten fortgeschri",
+      "start": "2026-05-03T13:00:00",
+      "end": "2026-05-03T15:00:00",
+      "url": "https://www.tangostuttgart.de/workshops.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "class",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-123",
+      "title": "Termine Workshops März 2026 Milonga & Vals-Workshop (Samstag, 28. März 2026) Sa,",
+      "start": "2026-05-03T13:00:00",
+      "end": "2026-05-03T15:00:00",
+      "url": "https://www.tangostuttgart.de/workshops.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "workshop",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-131",
+      "title": "März 2026 Milonga & Vals-Workshop (Samstag, 28. März 2026) Sa, 28.03.2026\t\t\t\t\t\t1",
+      "start": "2026-05-03T13:00:00",
+      "end": "2026-05-03T15:00:00",
+      "url": "https://www.tangostuttgart.de/workshops.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "workshop",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-141",
+      "title": "Workshop \"Musikalität\" (Sonntag, 03. Mai 2026) So, 03.05.2026\t\t\t\t\t\t13:00 - 15:00",
+      "start": "2026-05-03T13:00:00",
+      "end": "2026-05-03T15:00:00",
+      "url": "https://www.tangostuttgart.de/workshops.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "workshop",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-142",
+      "title": "So, 03.05.2026\t\t\t\t\t\t13:00 - 15:00",
+      "start": "2026-05-03T13:00:00",
+      "end": "2026-05-03T15:00:00",
+      "url": "https://www.tangostuttgart.de/workshops.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "event",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-116",
+      "title": "Workshops im tangoloft Besondere Workshops an den Wochenenden bieten fortgeschri",
+      "start": "2026-05-09T13:00:00",
+      "end": "2026-05-09T15:00:00",
+      "url": "https://www.tangostuttgart.de/workshops.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "class",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-124",
+      "title": "Termine Workshops März 2026 Milonga & Vals-Workshop (Samstag, 28. März 2026) Sa,",
+      "start": "2026-05-09T13:00:00",
+      "end": "2026-05-09T15:00:00",
+      "url": "https://www.tangostuttgart.de/workshops.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "workshop",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-132",
+      "title": "März 2026 Milonga & Vals-Workshop (Samstag, 28. März 2026) Sa, 28.03.2026\t\t\t\t\t\t1",
+      "start": "2026-05-09T13:00:00",
+      "end": "2026-05-09T15:00:00",
+      "url": "https://www.tangostuttgart.de/workshops.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "workshop",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-143",
+      "title": "Workshop \"Technik für Frauen\" (Samstag, 09. Mai 2026) Sa, 09.05.2026\t\t\t\t\t\t19:45",
+      "start": "2026-05-09T19:45:00",
+      "end": "2026-05-09T21:45:00",
+      "url": "https://www.tangostuttgart.de/workshops.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "workshop",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-144",
+      "title": "Sa, 09.05.2026\t\t\t\t\t\t19:45 - 21:00",
+      "start": "2026-05-09T19:45:00",
+      "end": "2026-05-09T21:45:00",
+      "url": "https://www.tangostuttgart.de/workshops.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "event",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-9",
+      "title": "Tango lernen im tangoloft Unsere Kurse bieten regelmäßigen, aufeinander aufbauen",
+      "start": "2026-05-14T16:00:00",
+      "end": "2026-05-14T18:00:00",
+      "url": "https://www.tangostuttgart.de/kurse.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "class",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-29",
+      "title": "Die nächsten Kurstermine: März 2026 Oberstufe am Sonntag (15.02. - 29.03.2026) S",
+      "start": "2026-05-14T16:00:00",
+      "end": "2026-05-14T18:00:00",
+      "url": "https://www.tangostuttgart.de/kurse.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "class",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-49",
+      "title": "März 2026 Oberstufe am Sonntag (15.02. - 29.03.2026) So, 22.03.2026\t\t\t\t\t\t16:00 -",
+      "start": "2026-05-14T16:00:00",
+      "end": "2026-05-14T18:00:00",
+      "url": "https://www.tangostuttgart.de/kurse.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "class",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-83",
+      "title": "Oberstufe am Donnerstag (19.03. - 14.05.2026) Do, 26.03.2026\t\t\t\t\t\t19:00 - 20:15",
+      "start": "2026-05-14T19:00:00",
+      "end": "2026-05-14T21:00:00",
+      "url": "https://www.tangostuttgart.de/kurse.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "class",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-86",
+      "title": "Grundstufe 1 am Donnerstag (19.03. - 14.05.2026) Do, 26.03.2026\t\t\t\t\t\t20:30 - 21:",
+      "start": "2026-05-14T20:30:00",
+      "end": "2026-05-14T22:30:00",
+      "url": "https://www.tangostuttgart.de/kurse.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "class",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-89",
+      "title": "Grundstufe 3 am Donnerstag (19.03. - 14.05.2026) Do, 26.03.2026\t\t\t\t\t\t20:30 - 21:",
+      "start": "2026-05-14T20:30:00",
+      "end": "2026-05-14T22:30:00",
+      "url": "https://www.tangostuttgart.de/kurse.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "class",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-117",
+      "title": "Workshops im tangoloft Besondere Workshops an den Wochenenden bieten fortgeschri",
+      "start": "2026-05-16T13:00:00",
+      "end": "2026-05-16T15:00:00",
+      "url": "https://www.tangostuttgart.de/workshops.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "class",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-125",
+      "title": "Termine Workshops März 2026 Milonga & Vals-Workshop (Samstag, 28. März 2026) Sa,",
+      "start": "2026-05-16T13:00:00",
+      "end": "2026-05-16T15:00:00",
+      "url": "https://www.tangostuttgart.de/workshops.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "workshop",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-133",
+      "title": "März 2026 Milonga & Vals-Workshop (Samstag, 28. März 2026) Sa, 28.03.2026\t\t\t\t\t\t1",
+      "start": "2026-05-16T13:00:00",
+      "end": "2026-05-16T15:00:00",
+      "url": "https://www.tangostuttgart.de/workshops.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "workshop",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-145",
+      "title": "Zeit für die ersten Schritte (Samstag, 16. Mai 2026) Sa, 16.05.2026\t\t\t\t\t\t13:00 -",
+      "start": "2026-05-16T13:00:00",
+      "end": "2026-05-16T15:00:00",
+      "url": "https://www.tangostuttgart.de/workshops.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "workshop",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-146",
+      "title": "Sa, 16.05.2026\t\t\t\t\t\t13:00 - 14:30",
+      "start": "2026-05-16T13:00:00",
+      "end": "2026-05-16T15:00:00",
+      "url": "https://www.tangostuttgart.de/workshops.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "event",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-167",
+      "title": "Tanzen im tangoloft Dienstags, samstags und 1x im Monat sonntags finden gut besu",
+      "start": "2026-05-17T17:30:00",
+      "end": "2026-05-17T19:30:00",
+      "url": "https://www.tangostuttgart.de/milongas.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "milonga",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-176",
+      "title": "Die nächsten Milongas im tangoloft März 2026 La Doppia Notte / Late Night Milong",
+      "start": "2026-05-17T17:30:00",
+      "end": "2026-05-17T19:30:00",
+      "url": "https://www.tangostuttgart.de/milongas.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "milonga",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-185",
+      "title": "März 2026 La Doppia Notte / Late Night Milonga Sa, 21.03.2026\t\t\t bis So, 22.03.2",
+      "start": "2026-05-17T17:30:00",
+      "end": "2026-05-17T19:30:00",
+      "url": "https://www.tangostuttgart.de/milongas.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "milonga",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-194",
+      "title": "tanzort am Sonntag (17. Mai 2026) So, 17.05.2026\t\t\t\t\t\t17:30 - 21:30 Unsere Sonnt",
+      "start": "2026-05-17T17:30:00",
+      "end": "2026-05-17T19:30:00",
+      "url": "https://www.tangostuttgart.de/milongas.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "milonga",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-195",
+      "title": "tanzort am Sonntag (17. Mai 2026) So, 17.05.2026\t\t\t\t\t\t17:30 - 21:30",
+      "start": "2026-05-17T17:30:00",
+      "end": "2026-05-17T19:30:00",
+      "url": "https://www.tangostuttgart.de/milongas.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "event",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-196",
+      "title": "So, 17.05.2026\t\t\t\t\t\t17:30 - 21:30",
+      "start": "2026-05-17T17:30:00",
+      "end": "2026-05-17T19:30:00",
+      "url": "https://www.tangostuttgart.de/milongas.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "event",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-5",
+      "title": "Tango lernen im tangoloft Unsere Kurse bieten regelmäßigen, aufeinander aufbauen",
+      "start": "2026-05-19T16:00:00",
+      "end": "2026-05-19T18:00:00",
+      "url": "https://www.tangostuttgart.de/kurse.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "class",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-25",
+      "title": "Die nächsten Kurstermine: März 2026 Oberstufe am Sonntag (15.02. - 29.03.2026) S",
+      "start": "2026-05-19T16:00:00",
+      "end": "2026-05-19T18:00:00",
+      "url": "https://www.tangostuttgart.de/kurse.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "class",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-45",
+      "title": "März 2026 Oberstufe am Sonntag (15.02. - 29.03.2026) So, 22.03.2026\t\t\t\t\t\t16:00 -",
+      "start": "2026-05-19T16:00:00",
+      "end": "2026-05-19T18:00:00",
+      "url": "https://www.tangostuttgart.de/kurse.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "class",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-72",
+      "title": "Oberstufe am Dienstag (24.03. - 19.05.2026) Di, 24.03.2026\t\t\t\t\t\t19:00 - 20:15 Un",
+      "start": "2026-05-19T19:00:00",
+      "end": "2026-05-19T21:00:00",
+      "url": "https://www.tangostuttgart.de/kurse.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "class",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-74",
+      "title": "Oberstufe am Dienstag (24.03. - 19.05.2026) Di, 24.03.2026\t\t\t\t\t\t19:00 - 20:15",
+      "start": "2026-05-19T19:00:00",
+      "end": "2026-05-19T21:00:00",
+      "url": "https://www.tangostuttgart.de/kurse.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "event",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-7",
+      "title": "Tango lernen im tangoloft Unsere Kurse bieten regelmäßigen, aufeinander aufbauen",
+      "start": "2026-05-20T16:00:00",
+      "end": "2026-05-20T18:00:00",
+      "url": "https://www.tangostuttgart.de/kurse.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "class",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-27",
+      "title": "Die nächsten Kurstermine: März 2026 Oberstufe am Sonntag (15.02. - 29.03.2026) S",
+      "start": "2026-05-20T16:00:00",
+      "end": "2026-05-20T18:00:00",
+      "url": "https://www.tangostuttgart.de/kurse.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "class",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-47",
+      "title": "März 2026 Oberstufe am Sonntag (15.02. - 29.03.2026) So, 22.03.2026\t\t\t\t\t\t16:00 -",
+      "start": "2026-05-20T16:00:00",
+      "end": "2026-05-20T18:00:00",
+      "url": "https://www.tangostuttgart.de/kurse.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "class",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-77",
+      "title": "Mittelstufe am Mittwoch (25.03. - 20.05.2026) Mi, 25.03.2026\t\t\t\t\t\t19:00 - 20:15",
+      "start": "2026-05-20T19:00:00",
+      "end": "2026-05-20T21:00:00",
+      "url": "https://www.tangostuttgart.de/kurse.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "class",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-80",
+      "title": "Vals & Milonga am Mittwoch (25.03. - 20.05.2026) Mi, 25.03.2026\t\t\t\t\t\t20:30 - 21:",
+      "start": "2026-05-20T20:30:00",
+      "end": "2026-05-20T22:30:00",
+      "url": "https://www.tangostuttgart.de/kurse.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "class",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-11",
+      "title": "Tango lernen im tangoloft Unsere Kurse bieten regelmäßigen, aufeinander aufbauen",
+      "start": "2026-05-22T16:00:00",
+      "end": "2026-05-22T18:00:00",
+      "url": "https://www.tangostuttgart.de/kurse.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "class",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-31",
+      "title": "Die nächsten Kurstermine: März 2026 Oberstufe am Sonntag (15.02. - 29.03.2026) S",
+      "start": "2026-05-22T16:00:00",
+      "end": "2026-05-22T18:00:00",
+      "url": "https://www.tangostuttgart.de/kurse.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "class",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-51",
+      "title": "März 2026 Oberstufe am Sonntag (15.02. - 29.03.2026) So, 22.03.2026\t\t\t\t\t\t16:00 -",
+      "start": "2026-05-22T16:00:00",
+      "end": "2026-05-22T18:00:00",
+      "url": "https://www.tangostuttgart.de/kurse.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "class",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-91",
+      "title": "Oberstufe am Freitag (27.03. - 22.05.2026) Fr, 27.03.2026\t\t\t\t\t\t20:15 - 21:30 Die",
+      "start": "2026-05-22T20:15:00",
+      "end": "2026-05-22T22:15:00",
+      "url": "https://www.tangostuttgart.de/kurse.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "class",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-93",
+      "title": "Oberstufe am Freitag (27.03. - 22.05.2026) Fr, 27.03.2026\t\t\t\t\t\t20:15 - 21:30",
+      "start": "2026-05-22T20:15:00",
+      "end": "2026-05-22T22:15:00",
+      "url": "https://www.tangostuttgart.de/kurse.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "event",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-118",
+      "title": "Workshops im tangoloft Besondere Workshops an den Wochenenden bieten fortgeschri",
+      "start": "2026-05-23T13:00:00",
+      "end": "2026-05-23T15:00:00",
+      "url": "https://www.tangostuttgart.de/workshops.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "class",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-126",
+      "title": "Termine Workshops März 2026 Milonga & Vals-Workshop (Samstag, 28. März 2026) Sa,",
+      "start": "2026-05-23T13:00:00",
+      "end": "2026-05-23T15:00:00",
+      "url": "https://www.tangostuttgart.de/workshops.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "workshop",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-134",
+      "title": "März 2026 Milonga & Vals-Workshop (Samstag, 28. März 2026) Sa, 28.03.2026\t\t\t\t\t\t1",
+      "start": "2026-05-23T13:00:00",
+      "end": "2026-05-23T15:00:00",
+      "url": "https://www.tangostuttgart.de/workshops.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "workshop",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-147",
+      "title": "Workshop \"Technik für Männer\" (Samstag, 23. Mai 2026) Sa, 23.05.2026\t\t\t\t\t\t13:00",
+      "start": "2026-05-23T13:00:00",
+      "end": "2026-05-23T15:00:00",
+      "url": "https://www.tangostuttgart.de/workshops.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "workshop",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-148",
+      "title": "Sa, 23.05.2026\t\t\t\t\t\t13:00 - 14:30",
+      "start": "2026-05-23T13:00:00",
+      "end": "2026-05-23T15:00:00",
+      "url": "https://www.tangostuttgart.de/workshops.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "event",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-13",
+      "title": "Tango lernen im tangoloft Unsere Kurse bieten regelmäßigen, aufeinander aufbauen",
+      "start": "2026-05-23T16:00:00",
+      "end": "2026-05-23T18:00:00",
+      "url": "https://www.tangostuttgart.de/kurse.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "class",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-33",
+      "title": "Die nächsten Kurstermine: März 2026 Oberstufe am Sonntag (15.02. - 29.03.2026) S",
+      "start": "2026-05-23T16:00:00",
+      "end": "2026-05-23T18:00:00",
+      "url": "https://www.tangostuttgart.de/kurse.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "class",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-53",
+      "title": "März 2026 Oberstufe am Sonntag (15.02. - 29.03.2026) So, 22.03.2026\t\t\t\t\t\t16:00 -",
+      "start": "2026-05-23T16:00:00",
+      "end": "2026-05-23T18:00:00",
+      "url": "https://www.tangostuttgart.de/kurse.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "class",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-96",
+      "title": "Tango für Anfänger am Samstag (28.03. - 23.05.2026) Sa, 28.03.2026\t\t\t\t\t\t16:00 -",
+      "start": "2026-05-23T16:00:00",
+      "end": "2026-05-23T18:00:00",
+      "url": "https://www.tangostuttgart.de/kurse.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "class",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-149",
+      "title": "Workshop \"Technik für Frauen\" (Samstag, 23. Mai 2026) Sa, 23.05.2026\t\t\t\t\t\t19:45",
+      "start": "2026-05-23T19:45:00",
+      "end": "2026-05-23T21:45:00",
+      "url": "https://www.tangostuttgart.de/workshops.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "workshop",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-150",
+      "title": "Sa, 23.05.2026\t\t\t\t\t\t19:45 - 21:00",
+      "start": "2026-05-23T19:45:00",
+      "end": "2026-05-23T21:45:00",
+      "url": "https://www.tangostuttgart.de/workshops.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "event",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-151",
+      "title": "Workshop \"Technik für Frauen\" (Samstag, 13. Juni 2026) Sa, 13.06.2026\t\t\t\t\t\t11:00",
+      "start": "2026-06-13T11:00:00",
+      "end": "2026-06-13T13:00:00",
+      "url": "https://www.tangostuttgart.de/workshops.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "workshop",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-152",
+      "title": "Sa, 13.06.2026\t\t\t\t\t\t11:00 - 12:30",
+      "start": "2026-06-13T11:00:00",
+      "end": "2026-06-13T13:00:00",
+      "url": "https://www.tangostuttgart.de/workshops.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "event",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-119",
+      "title": "Workshops im tangoloft Besondere Workshops an den Wochenenden bieten fortgeschri",
+      "start": "2026-06-13T13:00:00",
+      "end": "2026-06-13T15:00:00",
+      "url": "https://www.tangostuttgart.de/workshops.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "class",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-127",
+      "title": "Termine Workshops März 2026 Milonga & Vals-Workshop (Samstag, 28. März 2026) Sa,",
+      "start": "2026-06-13T13:00:00",
+      "end": "2026-06-13T15:00:00",
+      "url": "https://www.tangostuttgart.de/workshops.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "workshop",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-135",
+      "title": "März 2026 Milonga & Vals-Workshop (Samstag, 28. März 2026) Sa, 28.03.2026\t\t\t\t\t\t1",
+      "start": "2026-06-13T13:00:00",
+      "end": "2026-06-13T15:00:00",
+      "url": "https://www.tangostuttgart.de/workshops.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "workshop",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-15",
+      "title": "Tango lernen im tangoloft Unsere Kurse bieten regelmäßigen, aufeinander aufbauen",
+      "start": "2026-06-14T16:00:00",
+      "end": "2026-06-14T18:00:00",
+      "url": "https://www.tangostuttgart.de/kurse.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "class",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-35",
+      "title": "Die nächsten Kurstermine: März 2026 Oberstufe am Sonntag (15.02. - 29.03.2026) S",
+      "start": "2026-06-14T16:00:00",
+      "end": "2026-06-14T18:00:00",
+      "url": "https://www.tangostuttgart.de/kurse.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "class",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-55",
+      "title": "März 2026 Oberstufe am Sonntag (15.02. - 29.03.2026) So, 22.03.2026\t\t\t\t\t\t16:00 -",
+      "start": "2026-06-14T16:00:00",
+      "end": "2026-06-14T18:00:00",
+      "url": "https://www.tangostuttgart.de/kurse.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "class",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-99",
+      "title": "Oberstufe am Sonntag (12.04. - 14.06.2026) So, 12.04.2026\t\t\t\t\t\t16:00 - 17:15 Der",
+      "start": "2026-06-14T16:00:00",
+      "end": "2026-06-14T18:00:00",
+      "url": "https://www.tangostuttgart.de/kurse.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "class",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-101",
+      "title": "Oberstufe am Sonntag (12.04. - 14.06.2026) So, 12.04.2026\t\t\t\t\t\t16:00 - 17:15",
+      "start": "2026-06-14T16:00:00",
+      "end": "2026-06-14T18:00:00",
+      "url": "https://www.tangostuttgart.de/kurse.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "event",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-17",
+      "title": "Tango lernen im tangoloft Unsere Kurse bieten regelmäßigen, aufeinander aufbauen",
+      "start": "2026-06-19T16:00:00",
+      "end": "2026-06-19T18:00:00",
+      "url": "https://www.tangostuttgart.de/kurse.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "class",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-37",
+      "title": "Die nächsten Kurstermine: März 2026 Oberstufe am Sonntag (15.02. - 29.03.2026) S",
+      "start": "2026-06-19T16:00:00",
+      "end": "2026-06-19T18:00:00",
+      "url": "https://www.tangostuttgart.de/kurse.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "class",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-57",
+      "title": "März 2026 Oberstufe am Sonntag (15.02. - 29.03.2026) So, 22.03.2026\t\t\t\t\t\t16:00 -",
+      "start": "2026-06-19T16:00:00",
+      "end": "2026-06-19T18:00:00",
+      "url": "https://www.tangostuttgart.de/kurse.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "class",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-104",
+      "title": "Tango für Anfänger am Freitag (17.04. - 19.06.2026) Fr, 17.04.2026\t\t\t\t\t\t19:00 -",
+      "start": "2026-06-19T19:00:00",
+      "end": "2026-06-19T21:00:00",
+      "url": "https://www.tangostuttgart.de/kurse.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "class",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-120",
+      "title": "Workshops im tangoloft Besondere Workshops an den Wochenenden bieten fortgeschri",
+      "start": "2026-06-20T13:00:00",
+      "end": "2026-06-20T15:00:00",
+      "url": "https://www.tangostuttgart.de/workshops.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "class",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-128",
+      "title": "Termine Workshops März 2026 Milonga & Vals-Workshop (Samstag, 28. März 2026) Sa,",
+      "start": "2026-06-20T13:00:00",
+      "end": "2026-06-20T15:00:00",
+      "url": "https://www.tangostuttgart.de/workshops.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "workshop",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-136",
+      "title": "März 2026 Milonga & Vals-Workshop (Samstag, 28. März 2026) Sa, 28.03.2026\t\t\t\t\t\t1",
+      "start": "2026-06-20T13:00:00",
+      "end": "2026-06-20T15:00:00",
+      "url": "https://www.tangostuttgart.de/workshops.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "workshop",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-153",
+      "title": "Workshop \"Technik für Frauen\" (Samstag, 20. Juni 2026) Sa, 20.06.2026\t\t\t\t\t\t19:45",
+      "start": "2026-06-20T19:45:00",
+      "end": "2026-06-20T21:45:00",
+      "url": "https://www.tangostuttgart.de/workshops.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "workshop",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-154",
+      "title": "Sa, 20.06.2026\t\t\t\t\t\t19:45 - 21:00",
+      "start": "2026-06-20T19:45:00",
+      "end": "2026-06-20T21:45:00",
+      "url": "https://www.tangostuttgart.de/workshops.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "event",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-168",
+      "title": "Tanzen im tangoloft Dienstags, samstags und 1x im Monat sonntags finden gut besu",
+      "start": "2026-06-21T17:30:00",
+      "end": "2026-06-21T19:30:00",
+      "url": "https://www.tangostuttgart.de/milongas.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "milonga",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-177",
+      "title": "Die nächsten Milongas im tangoloft März 2026 La Doppia Notte / Late Night Milong",
+      "start": "2026-06-21T17:30:00",
+      "end": "2026-06-21T19:30:00",
+      "url": "https://www.tangostuttgart.de/milongas.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "milonga",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-186",
+      "title": "März 2026 La Doppia Notte / Late Night Milonga Sa, 21.03.2026\t\t\t bis So, 22.03.2",
+      "start": "2026-06-21T17:30:00",
+      "end": "2026-06-21T19:30:00",
+      "url": "https://www.tangostuttgart.de/milongas.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "milonga",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-197",
+      "title": "tanzort am Sonntag (21. Juni 2026) So, 21.06.2026\t\t\t\t\t\t17:30 - 21:30 Unsere Sonn",
+      "start": "2026-06-21T17:30:00",
+      "end": "2026-06-21T19:30:00",
+      "url": "https://www.tangostuttgart.de/milongas.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "milonga",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-198",
+      "title": "tanzort am Sonntag (21. Juni 2026) So, 21.06.2026\t\t\t\t\t\t17:30 - 21:30",
+      "start": "2026-06-21T17:30:00",
+      "end": "2026-06-21T19:30:00",
+      "url": "https://www.tangostuttgart.de/milongas.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "event",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-199",
+      "title": "So, 21.06.2026\t\t\t\t\t\t17:30 - 21:30",
+      "start": "2026-06-21T17:30:00",
+      "end": "2026-06-21T19:30:00",
+      "url": "https://www.tangostuttgart.de/milongas.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "event",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-19",
+      "title": "Tango lernen im tangoloft Unsere Kurse bieten regelmäßigen, aufeinander aufbauen",
+      "start": "2026-06-22T16:00:00",
+      "end": "2026-06-22T18:00:00",
+      "url": "https://www.tangostuttgart.de/kurse.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "class",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-39",
+      "title": "Die nächsten Kurstermine: März 2026 Oberstufe am Sonntag (15.02. - 29.03.2026) S",
+      "start": "2026-06-22T16:00:00",
+      "end": "2026-06-22T18:00:00",
+      "url": "https://www.tangostuttgart.de/kurse.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "class",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-59",
+      "title": "März 2026 Oberstufe am Sonntag (15.02. - 29.03.2026) So, 22.03.2026\t\t\t\t\t\t16:00 -",
+      "start": "2026-06-22T16:00:00",
+      "end": "2026-06-22T18:00:00",
+      "url": "https://www.tangostuttgart.de/kurse.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "class",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-107",
+      "title": "Mittelstufe 2 am Montag (20.04. - 22.06.2026) Mo, 20.04.2026\t\t\t\t\t\t19:00 - 20:15",
+      "start": "2026-06-22T19:00:00",
+      "end": "2026-06-22T21:00:00",
+      "url": "https://www.tangostuttgart.de/kurse.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "class",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-110",
+      "title": "Mittel-/Oberstufe am Montag (20.04. - 22.06.2026) Mo, 20.04.2026\t\t\t\t\t\t20:30 - 21",
+      "start": "2026-06-22T20:30:00",
+      "end": "2026-06-22T22:30:00",
+      "url": "https://www.tangostuttgart.de/kurse.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "class",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-169",
+      "title": "Tanzen im tangoloft Dienstags, samstags und 1x im Monat sonntags finden gut besu",
+      "start": "2026-07-05T17:30:00",
+      "end": "2026-07-05T19:30:00",
+      "url": "https://www.tangostuttgart.de/milongas.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "milonga",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-178",
+      "title": "Die nächsten Milongas im tangoloft März 2026 La Doppia Notte / Late Night Milong",
+      "start": "2026-07-05T17:30:00",
+      "end": "2026-07-05T19:30:00",
+      "url": "https://www.tangostuttgart.de/milongas.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "milonga",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-187",
+      "title": "März 2026 La Doppia Notte / Late Night Milonga Sa, 21.03.2026\t\t\t bis So, 22.03.2",
+      "start": "2026-07-05T17:30:00",
+      "end": "2026-07-05T19:30:00",
+      "url": "https://www.tangostuttgart.de/milongas.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "milonga",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-200",
+      "title": "tanzort am Sonntag (05. Juli 2026) So, 05.07.2026\t\t\t\t\t\t17:30 - 21:30 Unsere Sonn",
+      "start": "2026-07-05T17:30:00",
+      "end": "2026-07-05T19:30:00",
+      "url": "https://www.tangostuttgart.de/milongas.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "milonga",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-201",
+      "title": "tanzort am Sonntag (05. Juli 2026) So, 05.07.2026\t\t\t\t\t\t17:30 - 21:30",
+      "start": "2026-07-05T17:30:00",
+      "end": "2026-07-05T19:30:00",
+      "url": "https://www.tangostuttgart.de/milongas.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "event",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    },
+    {
+      "id": "tangostuttgart.de-202",
+      "title": "So, 05.07.2026\t\t\t\t\t\t17:30 - 21:30",
+      "start": "2026-07-05T17:30:00",
+      "end": "2026-07-05T19:30:00",
+      "url": "https://www.tangostuttgart.de/milongas.html",
+      "extendedProps": {
+        "venue": "Tango Loft",
+        "address": "",
+        "type": "event",
+        "price": "",
+        "source": "tangostuttgart.de"
+      }
+    }
+  ]
+}
